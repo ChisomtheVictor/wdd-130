@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+
+h1,h2,h3{
+    color: 	#722F37;
+}
+p{
+    line-height: 1.5em;
+}
+
+img{
+width: 300px;
+}
+
+footer{
+    background-color:#722F37;
+    color:white;
+    padding: 10px;
+}
